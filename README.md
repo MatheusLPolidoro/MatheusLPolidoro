@@ -26,8 +26,32 @@
 <code><img height="32" src="https://image.makewebeasy.net/makeweb/0/YLLBGff3K/AfirstPageDesign/microsoft_sql_server_standard_2017_olp_228_11135.jpg"/></code>
 <code><img height="32" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/></code>
-
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusLPolidoro&show_icons=true)
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLPolidoro&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusLPolidoro&show_icons=true&theme=dracula&line_height=27" alt="**Matheus** github stats"/>
+</a>
+
+[website]: https://
+[twitter]: https://
+[youtube]: https://www.youtube.com/channel/UCJHxMdWQOM2ITGCWnkwXr7w/featured
+[instagram]: https://www.instagram.com/matheuspolidoro2.0/
+[linkedin]: https://br.linkedin.com/in/matheus-polidoro-236431188
+<br>
+
+## Rede Sociais!
+
+<!-- 🏡 [website][website] **|** -->
+<!-- 🐦 [twitter][twitter] **|** -->
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
