@@ -32,7 +32,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/MatheusLPolidoro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLPolidoro&theme=dracula&hide_langs_below=1" />
 </a>
 
