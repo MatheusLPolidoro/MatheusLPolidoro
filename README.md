@@ -1,4 +1,4 @@
-<h2><img src="https://i.imgur.com/gcDqoIz.gif" width="30"> Olá, meu nome é <strong>Matheus Polidoro!</strong></h2>
+<h2><img src="https://user-images.githubusercontent.com/89528428/131755017-6d6343ba-307e-4d87-9fc3-77f33e8dc6a2.gif" width="30"> Olá, meu nome é <strong>Matheus Polidoro!</strong></h2>
 
 > Sou um estudante de programação, trabalhei com processos bancarios.
 
