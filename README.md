@@ -4,7 +4,7 @@
 
 🔭 Desenvolvi um projeto de um jogo com o Python, atualmente estou aprendendo versionamento de software
 
-💬 Se você tem sede por conhecimento, e vontade te tentar coisas novas, você pode me contatar para conversamos e trocarmos experiências
+💬 Se você tem sede por conhecimento, e vontade de tentar coisas novas, você pode me contatar para conversamos e trocarmos experiências
 
 ----
 
