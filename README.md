@@ -34,15 +34,14 @@
 ## ⭐ Informações sobre minha conta GitHub
 
 <a href="https://github.com/MatheusLPolidoro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLPolidoro&show_icons=true&theme=dracula&line_height=50" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusLPolidoro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
-<br>
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusLPolidoro&show_icons=true&theme=dracula&line_height=27" alt="**Matheus** github stats"/>
+<a href="https://github.com/MatheusLPolidoro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLPolidoro&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
-[website]: https://
-[twitter]: https://
+[website]: 
+[twitter]: 
 [youtube]: https://www.youtube.com/channel/UCJHxMdWQOM2ITGCWnkwXr7w/featured
 [instagram]: https://www.instagram.com/matheuspolidoro2.0/
 [linkedin]: https://br.linkedin.com/in/matheus-polidoro-236431188
