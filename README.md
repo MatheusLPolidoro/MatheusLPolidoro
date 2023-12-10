@@ -1,11 +1,5 @@
 <h2><img src="https://user-images.githubusercontent.com/89528428/131755017-6d6343ba-307e-4d87-9fc3-77f33e8dc6a2.gif" width="30"> Olá, meu nome é <strong>Matheus Polidoro!</strong></h2>
 
-> <a href="https://pagina-pessoal-xi.vercel.app/">Meu Curriculum</a>
-
-🔭 Desenvolvi um projeto de um jogo com o Python, atualmente estou aprendendo versionamento de software
-
-💬 Se você tem sede por conhecimento, e vontade de tentar coisas novas, você pode me contatar para conversamos e trocarmos experiências
-
 ----
 
 ## 🚀 Minhas Skills
